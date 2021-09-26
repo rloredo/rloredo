@@ -26,4 +26,4 @@ I have worked on or supervised projects about:
  - Unit economics and PnL (CAC, LTV, etc.) 
 
 ### Gists 
-Check out my gists with useful snippets for NLP and discrete event simulations.
+Check out my [gists](https://gist.github.com/rloredo) with useful snippets for NLP and discrete event simulations.
