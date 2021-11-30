@@ -27,3 +27,6 @@ I have worked on or supervised projects about:
 
 ### Gists 
 Check out my [gists](https://gist.github.com/rloredo) with useful snippets for NLP and discrete event simulations.
+
+### Personal website
+In my [blog](https://whatido.com.ar) I share some thoughts ands stories about Data Science and Analytics.
