@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-I’m a Data Scientist from Buenos Aires, Argentina.  
+I’m currently working at Amberscript setting up the analytics-BI department. I’m in charge of the whole analytics ecosystem, from ingestion to visualization and insight-sharing.
 
-I have been working as a Data Scientist for Tiendanube/Nuvemshop, a B2B, SaaS company, for almost two years. My journey to Data Science began when I started my Ph.D. in psycho and neurolinguistics. In that process I realized that what I loved most was designing and implementing experiments, and modeling data to analyze the results.  
+Before that, I worked as a Data Scientist for Tiendanube & Nuvemshop, a B2B, SaaS company, for almost two years. In that job I had to handle big amounts of data, implement supervised and unsupervised ML models, report insights to key stakeholders, and lead a team of four data scientists. You can read a little bit more about those projects here.
 
-At my current job I handle big amounts of data, implement supervised and unsupervised ML models, report insights to key stakeholders, and lead a team of four data scientists.
+My journey to Data Science began when I started my Ph.D. in psycho and neurolinguistics. In that process, I realized that what I loved most was designing and implementing experiments, and modeling data to analyze the results. Thus, I started studying descriptive and inferential statistics, machine learning, and learning to code.
+
+In my free time, I like to read, study, and write about data science & analytics, human skills, and other things. I also love outdoor sports like rock climbing, sailing, and playing football. I also enjoy building things, woodworking, and gardening. I’ve been building a 14ft. wooden boat!
+
 
 ### Projects
+
 I have worked on or supervised projects about:
  - Topic modelling and tagging of customer support conversations
  - Customer clustering using Amplitude events and product configurations
@@ -26,7 +30,9 @@ I have worked on or supervised projects about:
  - Unit economics and PnL (CAC, LTV, etc.) 
 
 ### Gists 
+
 Check out my [gists](https://gist.github.com/rloredo) with useful snippets for NLP and discrete event simulations.
 
 ### Personal website
+
 In my [blog](https://whatido.com.ar) I share some thoughts ands stories about Data Science and Analytics.
