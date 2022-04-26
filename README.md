@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Rodrigo, a data analyst, scientist, engineer, gurú, sherpa... From Argentina, currently living in Amsterdam (NL).
 
 I’m currently working at Amberscript setting up the analytics-BI department. I’m in charge of the whole analytics ecosystem, from ingestion to visualization and insight-sharing.
 
