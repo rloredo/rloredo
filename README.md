@@ -1,13 +1,13 @@
 ## Hi there 👋
 I'm Rodrigo, a data analyst, scientist, engineer, guru, sherpa... from Argentina, currently living in Amsterdam (NL).
 
-I’m currently working at Amberscript setting up the analytics-BI department. I’m in charge of the whole analytics ecosystem, from ingestion to visualization and insight-sharing.
+I’m currently working at Felyx as a Analytics Engineer.
 
-Before that, I worked as a Data Scientist for Tiendanube & Nuvemshop, a B2B, SaaS company, for almost two years. In that job I had to handle big amounts of data, implement supervised and unsupervised ML models, report insights to key stakeholders, and lead a team of four data scientists. You can read a little bit more about those projects here.
+Before that, I worked at Amberscript setting up the analytics-BI department. I was in charge of the whole analytics ecosystem, from ingestion to visualization and insight-sharing. I've also worked as a Data Scientist for Tiendanube & Nuvemshop, a B2B, SaaS company, for almost two years. In that job I had to handle big amounts of data, implement supervised and unsupervised ML models, report insights to key stakeholders, and lead a team of four data scientists. You can read a little bit more about those projects here.
 
 My journey to Data Science began when I started my Ph.D. in psycho and neurolinguistics. In that process, I realized that what I loved most was designing and implementing experiments, and modeling data to analyze the results. Thus, I started studying descriptive and inferential statistics, machine learning, and learning to code.
 
-In my free time, I like to read, study, and write about data science & analytics, human skills, and other things. I also love outdoor sports like rock climbing, sailing, and playing football. I also enjoy building things, woodworking, and gardening. I’ve been building a 14ft. wooden boat!
+In my free time, I like to read, study, and write about data science & analytics, human skills, and other things. I also love outdoor sports like rock climbing, sailing, and playing football. I also enjoy building things, woodworking, and gardening. I fixed a 12ft. sailboat and I've been building a 14ft. wooden boat!
 
 
 ### Projects
