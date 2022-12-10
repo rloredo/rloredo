@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Rodrigo, a data analyst, scientist, engineer, guru, sherpa... from Argentina, currently living in Amsterdam (NL).
+I'm Rodrigo, a data analyst, scientist, engineer, guru, sherpa... currently living in Amsterdam, NL (originally from Argentina).
 
 I’m currently working at Felyx as a Analytics Engineer.
 
@@ -12,7 +12,7 @@ In my free time, I like to read, study, and write about data science & analytics
 
 ### Projects
 
-I have worked on or supervised projects about:
+I have worked on, or supervised projects about:
  - Topic modelling and tagging of customer support conversations
  - Customer clustering using Amplitude events and product configurations
  - Chatbot for customer support
@@ -29,6 +29,7 @@ I have worked on or supervised projects about:
  - Attribution models for performance marketing
  - Allocation of revenue and financial consolidation
  - Unit economics and PnL (CAC, LTV, etc.) 
+ - And many more!
 
 ### Gists 
 
