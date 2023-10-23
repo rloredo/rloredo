@@ -37,4 +37,4 @@ Check out my [gists](https://gist.github.com/rloredo) with useful snippets for N
 
 ### Personal website
 
-In my [blog](https://whatido.com.ar) I share some thoughts and stories about Data Science and Analytics.
+In my [blog](https://whatido.substack.com/) I share some thoughts and stories about Data Science and Analytics.
