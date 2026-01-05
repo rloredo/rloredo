@@ -1,4 +1,8 @@
-## Hi there 👋
+## Check out my [https://www.linkedin.com/in/rrloredo/](https://www.linkedin.com/in/rrloredo/)
+
+
+
+### Hi there 👋
 I'm Rodrigo, a data analyst, scientist, engineer, guru, sherpa... currently living in Amsterdam, NL (originally from Argentina).
 
 I’m currently working at Vinted as a Analytics Engineer.
